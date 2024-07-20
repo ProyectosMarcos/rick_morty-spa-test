@@ -1,4 +1,4 @@
-# API de Rick and Morty
+## API de Rick and Morty
 
 [API](https://rickandmortyapi.com/)
 
