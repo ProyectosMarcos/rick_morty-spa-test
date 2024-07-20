@@ -1,5 +1,3 @@
-## API de Rick and Morty
-
-[API](https://rickandmortyapi.com/)
+# API de Rick and Morty
 
 * Single Page Application sin utilizar ningun framework
